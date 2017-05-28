@@ -1,4 +1,4 @@
 YetAnotherBugTracker
 ====================
 
-YetAnotherBugTracker (YABT) is a simple Bugtracker, coded on my own.
+YetAnotherBugTracker (YABT) is a simple homemade Bugtracker project.
